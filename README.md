@@ -140,8 +140,7 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
 </p>
 
-### Badges
-
+<!--
 <b>Top Repositories</b>
 
 <div width="100%" align="center">
@@ -153,3 +152,4 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
+-->
