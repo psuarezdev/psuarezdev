@@ -111,6 +111,16 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
 </p>
 
+#### Testing
+<p align="left">
+  <a href="https://jestjs.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
+  </a>
+  <a href="https://vitest.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vitest" width="36" height="36" alt="Vitest" />
+  </a>
+</p>
+
 ### Socials
 
 <p align="left"> 
