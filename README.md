@@ -116,6 +116,9 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React Native" />
   </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://static.expo.dev/static/favicons/favicon-dark-48x48.png" width="36" height="36" alt="React Native" />
+  </a>
 </p>
 
 #### Testing
