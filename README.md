@@ -7,7 +7,7 @@ Software Developer & IT tech
 Since I was young, technology has been my passion. At 13 I got my first computer and at 16 I started assembling, repairing and configuring computers. This passion led me to study computer science, where I got so involved that my final project was a web application that transmitted real-time data from sensors controlled by Arduino to a database, through a REST API (Node.js), displaying the information on a web page developed with React.js in order to monitor the environment. Since then, I have spent the last 4 years actively developing software. During this time, I have participated in various projects, expanding my skills and knowledge in the field of software development.
 
 * 🌍  I'm based in Gran Canaria, Spain
-* 🖥️  See my portfolio at [Porfolio](http://psuarez.pages.dev/)
+* 🖥️  See my portfolio at [Porfolio](https://psuarez.pages.dev/)
 * ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
 * 🧠  I'm learning microservices with kubernetes
 * 🤝  I'm open to collaborating on real projects, whether simple or complex
