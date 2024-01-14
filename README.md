@@ -144,6 +144,13 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
 </p>
 
+#### Pending roadmap
+<p align="left">
+  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank">
+    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
+  </a>
+</p>
+
 ### Socials
 
 <p align="left"> 
