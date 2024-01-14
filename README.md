@@ -11,7 +11,7 @@ Since I was young, technology has been my passion. At 13 I got my first computer
 * ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
 * 🧠  I'm learning microservices with kubernetes
 * 🤝  I'm open to collaborating on real projects, whether simple or complex
-* ⚡  I'm renewing all my repositories in order to migrate them to Vercel
+* ⚡  I'm renewing all my repositories to host them
 
 <a href="https://www.github.com/psuarezdev" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/psuarezdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
