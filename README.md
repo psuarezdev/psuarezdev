@@ -27,12 +27,6 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
   </a>
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" />
-  </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="php" />
   </a>
@@ -133,6 +127,9 @@ Since I was young, technology has been my passion. At 13 I got my first computer
 
 #### Others
 <p align="left">
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
