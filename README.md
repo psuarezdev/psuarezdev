@@ -63,9 +63,6 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   <a href="https://www.prisma.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=prisma" width="36" height="36" alt="Prisma" />
   </a>
-  <a href="https://hibernate.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hibernate" width="36" height="36" alt="Hibernate" />
-  </a>
 </p>
 
 #### Front-End
