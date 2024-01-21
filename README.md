@@ -27,6 +27,12 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
   </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank">
+    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
+  </a>
   <a href="https://www.php.net/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="php" />
   </a>
@@ -135,13 +141,6 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
    <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" />
-  </a>
-</p>
-
-#### Pending roadmap
-<p align="left">
-  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank">
-    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
   </a>
 </p>
 
