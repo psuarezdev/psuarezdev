@@ -128,14 +128,8 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
 </p>
 
-#### Others
+#### Hardware and Systems Administration
 <p align="left">
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
   </a>
