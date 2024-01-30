@@ -128,13 +128,13 @@ Since I was young, technology has been my passion. At 13 I got my first computer
   </a>
 </p>
 
-#### Hardware and Systems Administration
+#### Systems Administration and Hardware
 <p align="left">
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" />
+  </a>
   <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-  </a>
-   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" />
   </a>
 </p>
 
