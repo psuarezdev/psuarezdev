@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Suárez
 ====================================================================================================================================
 
-Software Developer & IT tech
+Software Developer & IT tech 👨‍💻
 ----------------------------
 
 Since I was young, technology has been my passion. At 13 I got my first computer and at 16 I started assembling, repairing and configuring computers. This passion led me to study computer science, where I got so involved that my final project was a web application that transmitted real-time data from sensors controlled by Arduino to a database, through a REST API (Node.js), displaying the information on a web page developed with React.js in order to monitor the environment. Since then, I have spent the last 4 years actively developing software. During this time, I have participated in various projects, expanding my skills and knowledge in the field of software development.
