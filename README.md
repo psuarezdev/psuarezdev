@@ -132,6 +132,9 @@ Professional passionate about IT and continuous learning. I excel at collaborati
 
 #### Systems Administration and Hardware
 <p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Bash" />
+  </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" />
   </a>
