@@ -115,7 +115,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React Native" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
+  <a href="https://expo.dev/" target="_blank">
     <img src="https://static.expo.dev/static/favicons/favicon-dark-48x48.png" width="36" height="36" alt="React Native" />
   </a>
 </p>
