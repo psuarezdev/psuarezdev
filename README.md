@@ -108,6 +108,9 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://astro.build/" target="_blank">
     <img src="https://skillicons.dev/icons?i=astro" width="36" height="36" alt="Astro" />
   </a>
+  <a href="https://ionicframework.com/" target="_blank">
+    <img src="https://ionicframework.com/favicon-32x32.png" width="36" height="36" alt="Ionic" />
+  </a>
 </p>
 
 #### Mobile
