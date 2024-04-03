@@ -37,13 +37,15 @@ Professional passionate about IT and continuous learning. I excel at collaborati
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
   </a>
   <!--
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  <a href="https://www.java.com/download/help/whatis_java.html" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet" target="_blank">
-    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://spring.io/img/favicon.ico" width="36" height="36" alt="Spring" />
   </a>
   -->
+  
+  
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
@@ -59,20 +61,8 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
-  </a>
   <a href="https://graphql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
-  </a>
-  <a href="https://sequelize.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sequelize" width="36" height="36" alt="Sequelize" />
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=prisma" width="36" height="36" alt="Prisma" />
   </a>
 </p>
 
@@ -105,6 +95,11 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://nextjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
   </a>
+  <!--
+  <a href="https://angular.io/" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
+  </a>
+  -->
   <a href="https://astro.build/" target="_blank">
     <img src="https://skillicons.dev/icons?i=astro" width="36" height="36" alt="Astro" />
   </a>
