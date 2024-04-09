@@ -113,16 +113,6 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
-#### Testing
-<p align="left">
-  <a href="https://jestjs.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jest" width="36" height="36" alt="Jest" />
-  </a>
-  <a href="https://vitest.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vitest" width="36" height="36" alt="Vitest" />
-  </a>
-</p>
-
 #### Systems Administration
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
