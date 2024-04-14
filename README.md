@@ -126,6 +126,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
+<!--
 ### Socials
 
 <p align="left"> 
@@ -144,6 +145,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
     </picture>
   </a>
 </p>
+-->
 
 <!--
 <b>Top Repositories</b>
