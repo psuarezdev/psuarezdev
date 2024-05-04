@@ -106,6 +106,9 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
   </a>
+  <a href="https://angular.dev/" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
+  </a>
   <a href="https://ionicframework.com/" target="_blank">
     <img src="https://ionicframework.com/favicon-32x32.png" width="36" height="36" alt="Ionic" />
   </a>
