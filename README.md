@@ -9,7 +9,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
 * 🌍  I'm based in Gran Canaria, Spain
 * 🖥️  See my portfolio at https://psuarez.pages.dev
 * ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
-* 🧠  I'm currently learning Angular
+<!-- * 🧠  I'm currently learning Angular -->
 * 🤝  I'm open to collaborating on real projects, whether simple or complex
 * ⚡  I'm renewing all my repositories
 
