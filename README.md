@@ -103,13 +103,16 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
-#### Mobile
+#### Mobile & Desktop
 <p align="left">
+  <a href="https://flutter.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
+  </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
   </a>
-  <a href="https://angular.dev/" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="36" height="36" alt="Electron" />
   </a>
   <a href="https://ionicframework.com/" target="_blank">
     <img src="https://ionicframework.com/favicon-32x32.png" width="36" height="36" alt="Ionic" />
