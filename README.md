@@ -112,6 +112,9 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
   </a>
+  <a href="https://tauri.app/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" />
+  </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="36" height="36" alt="Electron" />
   </a>
