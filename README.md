@@ -126,14 +126,15 @@ Professional passionate about IT and continuous learning. I excel at collaborati
 #### Systems Administration
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" />
-  </a>
+  <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/cplusplus.svg" width="36" height="36" alt="C" />
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Bash" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://github.com/danielcranney/profileme-dev/blob/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" />
+  </a>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
   </a>
 </p>
 
