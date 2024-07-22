@@ -124,6 +124,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
+<!-- 
 #### Systems Administration
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
@@ -138,7 +139,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
   </a>
 </p>
-
+-->
 <!--
 ### Socials
 
