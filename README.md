@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Suárez
 ====================================================================================================================================
 
-Software Developer & IT tech 👨‍💻
-----------------------------
+Cross-platform Software Developer & IT tech 👨‍💻
+----------------------------------------------
 
 Professional passionate about IT and continuous learning. I excel at collaborating in multidisciplinary teams, focusing on providing efficient and innovative solutions. Committed to excellence, I constantly look for best practices and keep myself updated on industry trends.
 
 * 🌍  I'm based in Gran Canaria, Spain
 * 🖥️  See my portfolio at https://psuarez.pages.dev
-* ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com) <!-- * 🧠  I'm currently learning <tech> -->
-* 🤝  I'm open to collaborating on real projects, whether simple or complex
+* ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
+* 🧠  I'm currently learning Game development ([Godot](https://godotengine.org/), [UE5](https://www.unrealengine.com/en-US/unreal-engine-5))
+* 🤝  I'm open to collaborating on projects
 * ⚡  I'm renewing all my repositories
 
 <a href="https://www.github.com/psuarezdev" target="_blank" rel="noreferrer">
