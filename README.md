@@ -7,8 +7,9 @@ Cross-platform Software Developer & IT technician 👨‍💻
 Professional passionate about IT and continuous learning. I excel at collaborating in multidisciplinary teams, focusing on providing efficient and innovative solutions. Committed to excellence, I constantly look for best practices and keep myself updated on industry trends.
 
 * 🌍  I'm based in Gran Canaria, Spain
-* 🖥️  See my portfolio at https://psuarez.pages.dev
+* 🖥️  See my portfolio at [https://psuarez.pages.dev/](http://psuarez.pages.dev)
 * ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
+* * 🚀  I'm currently working on [LoMobility](https://herraduramasproquo.com/lomobility)
 * 🧠  I'm currently learning Game development with [UE5](https://www.unrealengine.com/en-US/unreal-engine-5)
 * 🤝  I'm open to collaborating on projects
 * ⚡  I'm renewing all my repositories
