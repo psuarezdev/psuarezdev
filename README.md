@@ -11,7 +11,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
 * ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
 * 🚀  I'm currently working on [LoMobility](https://herraduramasproquo.com/lomobility)
 * 🧠  I'm currently learning Game development with [UE5](https://www.unrealengine.com/en-US/unreal-engine-5)
-* 🤝  I'm open to collaborating on projects
+* 🤝  I'm open to collaborating on interesting projects
 * ⚡  I'm renewing all my repositories
 
 <a href="https://www.github.com/psuarezdev" target="_blank" rel="noreferrer">
