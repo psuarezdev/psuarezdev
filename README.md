@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Suárez
 ====================================================================================================================================
 
-Cross-platform Software Developer & IT technician 👨‍💻
+Software Developer & IT technician 👨‍💻
 ----------------------------------------------
 
 Professional passionate about IT and continuous learning. I excel at collaborating in multidisciplinary teams, focusing on providing efficient and innovative solutions. Committed to excellence, I constantly look for best practices and keep myself updated on industry trends.
