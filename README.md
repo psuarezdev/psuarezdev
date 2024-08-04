@@ -19,55 +19,6 @@ Professional passionate about IT and continuous learning. I excel at collaborati
 
 ### Skills
 
-#### Back-End
-<p align="left">
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-  </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://spring.io/favicon.svg" width="36" height="36" alt="Spring" />
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="php" />
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
-  </a>
-</p>
-
 #### Front-End
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
@@ -105,6 +56,49 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
+#### Back-End
+<p align="left">
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
+  </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt=".NET" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt=".NET" />
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="php" />
+  </a>
+  <a href="https://laravel.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+  </a>
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://spring.io/favicon.svg" width="36" height="36" alt="Spring" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
+  </a>
+</p>
+
 #### Mobile & Desktop
 <p align="left">
   <a href="https://flutter.dev/" target="_blank">
@@ -116,11 +110,30 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://tauri.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" />
   </a>
-  <a href="https://reactnative.dev/" target="_blank">
+  <a href="https://www.electronjs.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="36" height="36" alt="Electron" />
   </a>
   <a href="https://ionicframework.com/" target="_blank">
     <img src="https://ionicframework.com/favicon-32x32.png" width="36" height="36" alt="Ionic" />
+  </a>
+</p>
+
+#### Databases
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
+  </a>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   </a>
 </p>
 
@@ -139,38 +152,4 @@ Professional passionate about IT and continuous learning. I excel at collaborati
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" />
   </a>
 </p>
--->
-<!--
-### Socials
-
-<p align="left"> 
-  <a href="https://www.github.com/psuarezdev" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.linkedin.com/in/pablosuarezbm" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture>
-  </a>
-</p>
--->
-
-<!--
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/psuarezdev/expressts-api-starter" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=psuarezdev&repo=expressts-api-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/psuarezdev/express-api-starter" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=psuarezdev&repo=express-api-starter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-  </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
 -->
