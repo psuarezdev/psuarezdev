@@ -85,8 +85,8 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://laravel.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
   </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
   </a>
   <a href="https://spring.io/" target="_blank">
     <img src="https://spring.io/favicon.svg" width="36" height="36" alt="Spring" />
@@ -109,6 +109,9 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
   <a href="https://tauri.app/" target="_blank">
     <img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" />
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
   </a>
   <a href="https://www.electronjs.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg" width="36" height="36" alt="Electron" />
