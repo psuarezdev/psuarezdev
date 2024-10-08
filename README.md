@@ -46,8 +46,8 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
   </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://spring.io/favicon.svg" width="36" height="36" alt="Spring" />
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
