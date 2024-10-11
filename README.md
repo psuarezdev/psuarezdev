@@ -30,12 +30,6 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://angular.dev/" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" />
-  </a>
 </p>
 
 #### Back-End
@@ -48,12 +42,6 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-  </a>
-  <a href="https://graphql.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" />
   </a>
 </p>
 
@@ -70,9 +58,6 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-  </a>
-  <a href="https://ionicframework.com/" target="_blank">
-    <img src="https://ionicframework.com/favicon-32x32.png" width="36" height="36" alt="Ionic" />
   </a>
 </p>
 
