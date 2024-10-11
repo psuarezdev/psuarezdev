@@ -45,19 +45,16 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
-#### Mobile & Desktop
+#### Mobile
 <p align="left">
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
+  </a>
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
   </a>
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
-  </a>
-  <a href="https://tauri.app/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tauri" width="36" height="36" alt="Tauri" />
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
   </a>
 </p>
 
