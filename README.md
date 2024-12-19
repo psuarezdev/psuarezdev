@@ -43,8 +43,8 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Laravel" />
+  <a href="https://spring.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" />
   </a>
 </p>
 
