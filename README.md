@@ -43,9 +43,11 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://spring.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" />
   </a>
+  <!--
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
   </a>
+  -->
 </p>
 
 #### Mobile
