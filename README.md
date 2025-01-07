@@ -30,9 +30,6 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://angular.dev/" target="_blank">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
   </a>
-  <a href="https://astro.build/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=astro" width="36" height="36" alt="Astro" />
-  </a>
 </p>
 
 #### Back-End
