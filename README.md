@@ -8,10 +8,8 @@ Professional passionate about IT and continuous learning. I excel at collaborati
 
 * 🌍  I'm based in Gran Canaria, Spain
 * 🖥️  See my portfolio at [https://psuarez.pages.dev/](http://psuarez.pages.dev)
-* ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com)
-* 🚀  I'm currently working on [LoMobility](https://herraduramasproquo.com/lomobility)
-* 🧠  I'm currently learning [Data Science](https://www.ibm.com/think/topics/data-science)
-<!-- * 🤝  I'm open to collaborating on interesting projects -->
+* ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com) <!-- * 🚀  I'm currently working on [LoMobility](https://herraduramasproquo.com/lomobility) -->
+* 🧠  I'm currently learning [Data Science](https://www.ibm.com/think/topics/data-science) <!-- * 🤝  I'm open to collaborating on interesting projects -->
 * ⚡  I'm renewing all my repositories
 
 <a href="https://www.github.com/psuarezdev" target="_blank" rel="noreferrer">
