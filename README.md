@@ -44,7 +44,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   </a>
 </p>
 
-#### Mobile
+<!-- #### Mobile
 <p align="left">
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
@@ -55,7 +55,7 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
   </a>
-</p>
+</p> -->
 
 #### Databases
 <p align="left">
