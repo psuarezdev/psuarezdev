@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer 👨‍💻
 ----------------------------------------------
 
-Professional passionate about IT and continuous learning. I excel at collaborating in multidisciplinary teams, focusing on providing efficient and innovative solutions. Committed to excellence, I constantly look for best practices and keep myself updated on industry trends.
+Passionate about software development, engineering and data science.  Since the age of 15, curiosity and passion for technology have been the drivers of my personal and professional development. I am passionate about exploring how data can transform decision-making, optimise processes and generate knowledge.
 
 * 🌍  I'm based in Gran Canaria, Spain
 * 🖥️  See my portfolio at [https://psuarez.pages.dev/](http://psuarez.pages.dev)
