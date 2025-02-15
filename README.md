@@ -39,14 +39,9 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
   </a>
-  <a href="https://spring.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring" />
-  </a>
-  <!--
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
   </a>
-  -->
 </p>
 
 #### Mobile
@@ -67,14 +62,12 @@ Professional passionate about IT and continuous learning. I excel at collaborati
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" width="36" height="36" alt="MySQL" />
+  </a>
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
   </a>
-  <!--
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" width="36" height="36" alt="MySQL" />
-  </a>
-  -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
   </a>
