@@ -39,9 +39,9 @@ Passionate about software development, engineering and data science.  Since the 
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
   </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
+  <!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
-  </a>
+  </a> -->
 </p>
 
 <!-- #### Mobile
