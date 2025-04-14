@@ -39,23 +39,10 @@ Passionate about software development, engineering and data science.  Since the 
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
   </a>
-  <!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=net" width="36" height="36" alt=".NET" />
-  </a> -->
+  <a href="https://spring.io/" target="_blank">
+     <img src="https://spring.io/favicon.svg" width="36" height="36" alt="Spring" />
+   </a>
 </p>
-
-<!-- #### Mobile
-<p align="left">
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" />
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" />
-  </a>
-</p> -->
 
 #### Databases
 <p align="left">
