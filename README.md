@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Suárez
+NHi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pablo Suárez
 ====================================================================================================================================
 
 Software Developer 👨‍💻
@@ -48,9 +48,6 @@ Passionate about software development, engineering and data science.  Since the 
 <p align="left">
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/it/2/23/Sql_server_logo.png" width="36" height="36" alt="MySQL" />
   </a>
   <a href="https://www.oracle.com/database/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" />
