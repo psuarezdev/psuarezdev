@@ -39,8 +39,8 @@ Passionate about software development, engineering and data science.  Since the 
   <a href="https://nestjs.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="Express" />
   </a>
-  <a href="https://spring.io/" target="_blank">
-     <img src="https://spring.io/favicon.svg" width="36" height="36" alt="Spring" />
+  <a href="https://www.djangoproject.com/" target="_blank">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
    </a>
 </p>
 
