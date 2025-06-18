@@ -26,8 +26,8 @@ Passionate about software development, engineering and data science.  Since the 
   <a href="https://react.dev/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   </a>
-  <a href="https://angular.dev/" target="_blank">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" />
+  <a href="https://astro.build/" target="_blank">
+    <img src="http://skillicons.dev/icons?i=astro" width="36" height="36" alt="Astro" />
   </a>
 </p>
 
