@@ -7,7 +7,7 @@ Software Developer 👨‍💻
 Passionate about software development, engineering and data science.  Since the age of 15, curiosity and passion for technology have been the drivers of my personal and professional development. I am passionate about exploring how data can transform decision-making, optimise processes and generate knowledge.
 
 * 🌍  I'm based in Gran Canaria, Spain
-* 🖥️  See my portfolio at [https://psuarez.pages.dev/](http://psuarez.pages.dev)
+* 🖥️  See my portfolio at [https://psuarezdev.vercel.app/porfolio](https://psuarezdev.vercel.app/porfolio)
 * ✉️  You can contact me at [pablosuarezbm@gmail.com](mailto:pablosuarezbm@gmail.com) <!-- * 🚀  I'm currently working on [LoMobility](https://herraduramasproquo.com/lomobility) -->
 * 🧠  I'm currently learning [Data Science](https://www.ibm.com/think/topics/data-science) <!-- * 🤝  I'm open to collaborating on interesting projects -->
 <!-- * ⚡  I'm renewing all my repositories -->
