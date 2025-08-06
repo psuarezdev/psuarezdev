@@ -16,6 +16,7 @@ Passionate about software development, engineering and data science.  Since the 
   <img src="https://img.shields.io/github/followers/psuarezdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
+<!--
 ### Skills
 
 #### Front-End
@@ -60,7 +61,6 @@ Passionate about software development, engineering and data science.  Since the 
   </a>
 </p>
 
-<!-- 
 #### Systems Administration
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
