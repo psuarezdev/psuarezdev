@@ -7,7 +7,7 @@ Software Developer 👨‍💻
 Passionate about software development, engineering and data science.  Since the age of 15, curiosity and passion for technology have been the drivers of my personal and professional development. I am passionate about exploring how data can transform decision-making, optimise processes and generate knowledge.
 
 * 🌍  I'm based in Gran Canaria, Spain
-* 🖥️  See my portfolio at [https://psuarez.dev/porfolio](https://psuarezdev.vercel.app/porfolio)
+* 🖥️  See my portfolio at https://psuarez.dev/porfolio
 
 <a href="https://www.github.com/psuarezdev" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/psuarezdev?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
